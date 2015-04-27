@@ -1,0 +1,32 @@
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #79D3C1;
+}
+
+h1  {
+  width: 109px;
+  margin: 100px auto 0;
+  color: #0B2E59;
+  background-color: #F04158;
+  padding: 10px;
+  cursor: pointer;
+  border: 3px solid #0B2E59;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 0px rgba(50, 50, 50, 0.75);
+}
+
+table {
+  width: 450px;
+  margin: 70px auto 0;
+}
+
+td {
+  border: 5px solid #F04158;
+  padding: 20px 10px;
+  text-align: center;
+  color: #0B2E59;
+  font-weight: bold;
+  font-size: 20px;
+}
